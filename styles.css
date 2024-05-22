@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(164, 241, 184);
+    margin: auto;
+}
+
+#container {
+
+    text-align: center;
+    margin-top: 2cm;
+
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+
+    color: blue;
+}
+
+#name,
+#symbol,
+#withdraw {
+    border-radius: 3;
+    padding: 20 px;
+
+
+}
